@@ -7,4 +7,14 @@
 .App footer {
   font-size: 15px;
   margin: 30px 0;
+  padding-bottom: 20px;
+}
+
+.App .container {
+  background: rgb(117, 216, 216);
+  border-radius: 10px;
+}
+
+.App main {
+  padding: 10px;
 }

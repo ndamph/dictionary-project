@@ -10,7 +10,8 @@ export default function Meanings(props) {
             <h5>{definition.partOfSpeech}</h5>
             <p>
               {definition.definition}
-              <em>{definition.example}</em>
+              <br />
+              <em>ex. {definition.example}</em>
             </p>
           </div>
         );
