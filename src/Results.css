@@ -1,0 +1,11 @@
+.Results {
+  text-align: left;
+}
+
+.Results h1 {
+  margin: 20px 0 0;
+}
+
+.Results h4 {
+  opacity: 0.8;
+}
