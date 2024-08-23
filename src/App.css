@@ -10,11 +10,22 @@
   padding-bottom: 20px;
 }
 
+.App main {
+  padding: 10px;
+}
+
 .App .container {
-  background: rgb(117, 216, 216);
+  background: beige;
   border-radius: 10px;
 }
 
-.App main {
-  padding: 10px;
+.App {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.467),
+      rgba(255, 255, 255, 0.467)
+    ),
+    url("/images/floral.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
