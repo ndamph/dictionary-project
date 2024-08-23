@@ -5,5 +5,14 @@
 .Dictionary input {
   padding: 5px 10px;
   border-radius: 5px;
-  border: 1px solid black;
+  border: 1px solid grey;
+}
+
+.Dictionary .search-bar {
+  margin-right: 5px;
+  width: 200px;
+}
+
+.Dictionary .submit-button {
+  width: 80px;
 }

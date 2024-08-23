@@ -9,7 +9,15 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>Coded by Nadine Damphousse</footer>
+        <footer>
+          This app was coded by Nadine Damphousse, and is hosted on{" "}
+          <a
+            href="https://github.com/ndamph/dictionary-project"
+            target="blank_"
+          >
+            GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
