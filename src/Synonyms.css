@@ -3,15 +3,24 @@
 }
 
 .Synonyms ul {
-  display: inline;
+  display: inline-block;
   padding-left: 10px;
 }
 
 .Synonyms li {
-  display: inline;
+  display: inline-block;
 }
 
 .Synonyms p {
   display: inline;
   padding-left: 30px;
+}
+
+@media (max-width: 800px) {
+  .Synonyms {
+    font-size: 12px;
+  }
+  .Synonyms p {
+    padding: 0;
+  }
 }

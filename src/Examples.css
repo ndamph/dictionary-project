@@ -3,3 +3,9 @@
   margin-left: 30px;
   padding-top: 5px;
 }
+
+@media (max-width: 800px) {
+  .Examples {
+    margin-left: 10px;
+  }
+}

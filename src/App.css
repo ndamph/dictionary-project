@@ -37,3 +37,17 @@
   max-width: 600px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 }
+
+@media (max-width: 800px) {
+  .App .container {
+    max-width: 300px;
+  }
+  .App header {
+    font-size: 30px;
+    padding: 20px 0;
+  }
+  .App footer {
+    font-size: 8px;
+    margin: 20px 0;
+  }
+}

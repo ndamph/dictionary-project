@@ -16,3 +16,18 @@
 .Dictionary .submit-button {
   width: 80px;
 }
+
+@media (max-width: 800px) {
+  .Dictionary form {
+    margin-bottom: 30px;
+  }
+  .Dictionary input {
+    padding: 3px 8px;
+  }
+  .Dictionary .search-bar {
+    width: 125px;
+  }
+  .Dictionary .submit-button {
+    width: 65px;
+  }
+}

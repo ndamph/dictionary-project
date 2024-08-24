@@ -9,3 +9,12 @@
 .Meanings h5 {
   font-weight: bold;
 }
+
+@media (max-width: 800px) {
+  .Meanings h5 {
+    font-size: 18px;
+  }
+  .Meanings p {
+    font-size: 14px;
+  }
+}
