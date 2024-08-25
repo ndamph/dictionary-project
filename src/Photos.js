@@ -12,7 +12,7 @@ export default function Photos(props) {
                   key={index}
                   src={photo.src.landscape}
                   className="img-fluid"
-                  alt="photo"
+                  alt="dictionary photo"
                 />
               </div>
             );

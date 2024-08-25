@@ -16,6 +16,7 @@ export default function Dictionary() {
 
   function handlePhotos(response) {
     setPhotos(response.data.photos.photos);
+    console.log(response.data.photos.photos);
   }
 
   function handleSubmit(event) {
