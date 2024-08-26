@@ -1,0 +1,18 @@
+.Photos {
+  margin: 30px;
+}
+
+.Photos .gallery-photo img {
+  border-radius: 5px;
+}
+
+.Photos .gallery-photo {
+  padding: 5px;
+}
+
+.Photos .row {
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
