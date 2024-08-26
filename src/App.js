@@ -10,7 +10,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer>
-          This app was coded by Nadine Damphousse, and is hosted on{" "}
+          This app was coded by Nadine Damphousse, and is open-sourced on{" "}
           <a
             href="https://github.com/ndamph/dictionary-project"
             target="blank_"
