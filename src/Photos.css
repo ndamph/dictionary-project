@@ -16,3 +16,12 @@
   padding: 10px;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
 }
+
+@media (max-width: 800px) {
+  .Photos .gallery-photo {
+    padding: 3px;
+  }
+  .Photos .row {
+    padding: 5px;
+  }
+}
